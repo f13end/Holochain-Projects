@@ -1,7 +1,7 @@
 # Holochain Projects
 A curated list of awesome things related to Holochain Rust
 
-![](https://user-images.githubusercontent.com/3318070/59160178-fa59fa00-8ac2-11e9-8fdc-e603315a7267.png)
+![Holochain](https://user-images.githubusercontent.com/3318070/59160358-7acd2a80-8ac4-11e9-819a-606c14829205.png)
 
 **Holo**
 Cloud hosting market for distributed applications
