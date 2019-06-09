@@ -1,5 +1,5 @@
 # Holochain Projects
-A curated list of awesome things related to Holochain Rust
+A curated list of awesome things related to Holochain Rust Project Development
 
 ![Holochain](https://user-images.githubusercontent.com/3318070/59160358-7acd2a80-8ac4-11e9-819a-606c14829205.png)
 
@@ -15,14 +15,15 @@ https://www.producersmarket.com/
 BuildSort facilitates openness, transparency and trust amongst all stakeholders in the construction supply chain. Created to empower the USD10tn global building and construction industry with decentralised and efficient tools, BuildSort aims to streamline the planning and building process.
 https://buildsort.com/
 
-**MORPHEUS.NETWORK**
+**Morpheus.Network**
+Automated, global, platform-agnostic supply-chain network.
 https://morpheus.network/
 
 **HoloSupply**
 Making the Invisible, Visible. Supply Chains Reimagined.
 http://www.holosupply.io/
 
-**HYPERGROOVE**
+**HyperGroove**
 A platform for more sustainable, inclusive, community-driven agri-food systems. To be built with Holochain.
 https://www.hypergroove.co.uk/
 
@@ -35,6 +36,7 @@ Imagine If Every Time You Bought A Festival Ticket You Made A Positive And Measu
 https://www.metavents.com/
 
 **Hylo**
+A social network for community management, messaging and collaboration. They have a working network, although apparently with no activity. 
 https://www.hylo.com
 
 **Bridgit**
@@ -47,7 +49,8 @@ Every person who sees disinformation now has the power to stop it..
 http://crowdfact.io/
 
 **Scribe** 
-...
+The SCRIBE Project aims to build a distributed Conceptionary Manager which is a distributed application that allows to manage one or more Conceptionaries.
+https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct
 
 **uprtcl**
 Like Git. But for ideas and conversations
@@ -66,7 +69,7 @@ Peer-to-peer publishing platform
 https://humm.earth/
 
 **Junto**
-a movement for authenticity
+A social network designed for authenticity.
 https://junto.foundation/
 
 **Comet**
@@ -107,6 +110,7 @@ Transforming Refugees Into Entrepreneurs Using Fintech
 https://www.bizgees.org/
 
 **bHive**
+The bHive Cooperative is a community owned person-to-person sharing economy platform being developed for Bendigo [bank] by a team of five local entrepreneurs. bHive is the future of work.
 https://bhive.coop/
 
 **Joatu**
@@ -122,6 +126,7 @@ The realgame of peer-to-peer everything
 https://arcade.city/
 
 **Infinite World Game**
+An operating system for humanity.
 http://iwg.life/
 
 **Sacred Capital**
@@ -137,6 +142,7 @@ Empowering The Rapid Creation Of New Social Systems
 http://cogov.startbutton.com/
 
 **Creafree**
+Creafree registers, publishes and promotes creations to better meet the needs of the 21st century
 http://creafree.org/
 
 **Ulex**
