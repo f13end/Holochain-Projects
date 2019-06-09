@@ -23,7 +23,7 @@ Making the Invisible, Visible. Supply Chains Reimagined.
 http://www.holosupply.io/
 
 **HYPERGROOVE**
-A platform for more sustainable, inclusive, community-driven agri-food systems. To be built with Holochain. ♓️
+A platform for more sustainable, inclusive, community-driven agri-food systems. To be built with Holochain.
 https://www.hypergroove.co.uk/
 
 **Redgrid**
